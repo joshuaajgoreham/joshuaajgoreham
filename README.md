@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuaajgoreham
 - 👀 I’m interested in sport biomechanics and performance analysis
 - 🌱 I’m currently finishing my PhD.
-- 💞️ I’m looking to learn how to use github
+- 💞️ I’m looking to learn how to use github to share and collaborate on some of my code
 - 📫 How to reach me: on Twitter = @goreham87
 
 <!---
